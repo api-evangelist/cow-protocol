@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CoW Swap is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://cow.fi/
+CoW DAO (CoW Swap) is a decentralized finance protocol on Ethereum that enables batch auctions to find the most efficient trades while protecting users from front‑running and MEV. It offers a suite of products including a swap interface, a solver marketplace, and tools for liquidity providers, all governed by the community. The protocol aggregates orders into Coincidence‑of‑Wants (CoW) batches, matching complementary trades to execute at the best price without exposing trade details to the market.
+
+**Areas:** DeFi · Ethereum · Swap · Liquidity · Governance · AMM
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cow.fi/)
+- [Documentation](https://docs.cow.fi/)
+- [API reference](https://docs.cow.fi/llms-full.txt)
+- [GitHub](https://github.com/cowprotocol)
+- [Status](https://status.cow.fi/)
+
+**APIs profiled:** 18
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cow-protocol/](https://apis.io/providers/cow-protocol/).
