@@ -68,6 +68,100 @@ CoW DAO (CoW Swap) is a decentralized finance protocol on Ethereum that enables 
 
 **Areas:** DeFi · Ethereum · Swap · Liquidity · Governance · AMM
 
+## CoW Swap on APIs.io
+
+Everything profiled for CoW Swap is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cow-protocol/](https://apis.io/providers/cow-protocol/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [CoW Swap Account API](https://apis.io/apis/cow-protocol/cow-protocol-account-api/) — The Account API from CoW Swap — 1 operation(s) for account.
+- [CoW Swap App Data API](https://apis.io/apis/cow-protocol/cow-protocol-app-data-api/) — The App Data API from CoW Swap — 2 operation(s) for app data.
+- [CoW Swap Auction API](https://apis.io/apis/cow-protocol/cow-protocol-auction-api/) — The Auction API from CoW Swap — 1 operation(s) for auction.
+- [CoW Swap Notify API](https://apis.io/apis/cow-protocol/cow-protocol-notify-api/) — The Notify API from CoW Swap — 1 operation(s) for notify.
+- [CoW Swap Orders API](https://apis.io/apis/cow-protocol/cow-protocol-orders-api/) — The Orders API from CoW Swap — 4 operation(s) for orders.
+- [CoW Swap Quote API](https://apis.io/apis/cow-protocol/cow-protocol-quote-api/) — The Quote API from CoW Swap — 3 operation(s) for quote.
+- [CoW Swap Quotes API](https://apis.io/apis/cow-protocol/cow-protocol-quotes-api/) — Pay for a quote, then sign and submit an order separately through the orderbook API.
+- [CoW Swap Restricted API](https://apis.io/apis/cow-protocol/cow-protocol-restricted-api/) — The Restricted API from CoW Swap — 3 operation(s) for restricted.
+- [CoW Swap Reveal API](https://apis.io/apis/cow-protocol/cow-protocol-reveal-api/) — The Reveal API from CoW Swap — 1 operation(s) for reveal.
+- [CoW Swap Settle API](https://apis.io/apis/cow-protocol/cow-protocol-settle-api/) — The Settle API from CoW Swap — 1 operation(s) for settle.
+- [CoW Swap Settle Fast Path API](https://apis.io/apis/cow-protocol/cow-protocol-settle-fast-path-api/) — The Settle Fast Path API from CoW Swap — 1 operation(s) for settle fast path.
+- [CoW Swap Solve API](https://apis.io/apis/cow-protocol/cow-protocol-solve-api/) — The Solve API from CoW Swap — 1 operation(s) for solve.
+- [CoW Swap Solver Competition API](https://apis.io/apis/cow-protocol/cow-protocol-solver-competition-api/) — The Solver Competition API from CoW Swap — 3 operation(s) for solver competition.
+- [CoW Swap Token API](https://apis.io/apis/cow-protocol/cow-protocol-token-api/) — The Token API from CoW Swap — 1 operation(s) for token.
+- [CoW Swap Trades API](https://apis.io/apis/cow-protocol/cow-protocol-trades-api/) — The Trades API from CoW Swap — 1 operation(s) for trades.
+- [CoW Swap Transactions API](https://apis.io/apis/cow-protocol/cow-protocol-transactions-api/) — The Transactions API from CoW Swap — 1 operation(s) for transactions.
+- [CoW Swap Users API](https://apis.io/apis/cow-protocol/cow-protocol-users-api/) — The Users API from CoW Swap — 1 operation(s) for users.
+- [CoW Swap Version API](https://apis.io/apis/cow-protocol/cow-protocol-version-api/) — The Version API from CoW Swap — 1 operation(s) for version.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Cow Protocol Agentic Access](https://apis.io/agentic-access/cow-protocol/cow-protocol-agentic-access/)
+
+#### JSON Schema (14)
+
+The data models the API reads and writes.
+
+- [Auction](https://apis.io/schemas/cow-protocol/cow-protocol-auction/)
+- [OrderCreation](https://apis.io/schemas/cow-protocol/cow-protocol-order-creation/)
+- [OrderQuoteRequest](https://apis.io/schemas/cow-protocol/cow-protocol-order-quote-request/)
+- [OrderQuoteResponse](https://apis.io/schemas/cow-protocol/cow-protocol-order-quote-response/)
+- [QuoteResponseKind](https://apis.io/schemas/cow-protocol/cow-protocol-quote-response-kind/)
+- [RevealRequest](https://apis.io/schemas/cow-protocol/cow-protocol-reveal-request/)
+- [SettleFastPathRequest](https://apis.io/schemas/cow-protocol/cow-protocol-settle-fast-path-request/)
+- [SettleRequest](https://apis.io/schemas/cow-protocol/cow-protocol-settle-request/)
+- [SimulationRequest](https://apis.io/schemas/cow-protocol/cow-protocol-simulation-request/)
+- [Solution](https://apis.io/schemas/cow-protocol/cow-protocol-solution/)
+- [SolveRequest](https://apis.io/schemas/cow-protocol/cow-protocol-solve-request/)
+- [SolveResponse](https://apis.io/schemas/cow-protocol/cow-protocol-solve-response/)
+- [SolverCompetitionResponse](https://apis.io/schemas/cow-protocol/cow-protocol-solver-competition-response/)
+- [Trade](https://apis.io/schemas/cow-protocol/cow-protocol-trade/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Cow Protocol Context](https://apis.io/jsonld/cow-protocol/cow-protocol-context/)
+
+#### Overlays (4)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Driver Overlay](https://apis.io/overlays/cow-protocol/driver-overlay/)
+- [Orderbook Overlay](https://apis.io/overlays/cow-protocol/orderbook-overlay/)
+- [Solvers Overlay](https://apis.io/overlays/cow-protocol/solvers-overlay/)
+- [X402 Overlay](https://apis.io/overlays/cow-protocol/x402-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [CoW Swap API Rules](https://apis.io/rules/cow-protocol/cow-protocol-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cow Protocol Authentication](https://apis.io/security/cow-protocol/cow-protocol-authentication/)
+- [Cow Protocol Domain Security](https://apis.io/security/cow-protocol/cow-protocol-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Cow Protocol Scopes](https://apis.io/scopes/cow-protocol/cow-protocol-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Cow Protocol Rate Limits](https://apis.io/rate-limits/cow-protocol/cow-protocol-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -78,8 +172,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [GitHub](https://github.com/cowprotocol)
 - [Status](https://status.cow.fi/)
 
-**APIs profiled:** 18
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/cow-protocol/](https://apis.io/providers/cow-protocol/).
+**Kin Score 45.1** — developing · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 52.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 49.5 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 0.0 |
+
+**Agent readiness 38.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cow-protocol/](https://apis.io/providers/cow-protocol/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CoW Swap: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cow-protocol/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
